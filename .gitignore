@@ -65,4 +65,4 @@ docs/html
 .python-version
 
 # database
-events.db
+events.db.idea/
